@@ -1,0 +1,25 @@
+.head {
+    background: greenyellow;
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.link {
+    background: pink;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.name {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.small-title {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+
