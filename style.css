@@ -3,12 +3,23 @@
     font-size: 36px;
     font-weight: 800;
     text-align: center;
+    padding: 16px;
 }
 
-.link {
-    background: pink;
+.divlink {
+   
+    border: 2px solid gold;
+    background: greenyellow;
+    padding: 16px;
+   
+
+}
+
+.link {   
     font-size: 16px;
     font-weight: 700;
+    padding: 8px;
+   
 }
 
 .name {
